@@ -13,7 +13,7 @@
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
     "@svgr/webpack": "^6.5.1",
-    "nth-check": "^2.1.1"
+    "nth-check": "^2.1.1",
     "synk": "0.0.2"
   }
 }
